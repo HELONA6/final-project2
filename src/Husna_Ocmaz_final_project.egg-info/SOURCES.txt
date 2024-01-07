@@ -6,4 +6,4 @@ src/Husna_Ocmaz_final_project.egg-info/SOURCES.txt
 src/Husna_Ocmaz_final_project.egg-info/dependency_links.txt
 src/Husna_Ocmaz_final_project.egg-info/top_level.txt
 src/myProject/__init__.py
-src/myProject/main.py
+src/myProject/hw4.py
