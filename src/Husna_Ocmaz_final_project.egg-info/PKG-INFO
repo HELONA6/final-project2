@@ -1,10 +1,9 @@
 Metadata-Version: 2.1
 Name: Husna_Ocmaz_final_project
-Version: 0.0.1
+Version: 0.0.2
 Summary: Assignment 4 package
 Author-email: Husna Ocmaz <husna.ocmaz@bahcesehir.edu.tr>
-Project-URL: Homepage, https://github.com/pypa/sampleproject
-Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Project-URL: Homepage, https://github.com/HELONA6/final-project
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
